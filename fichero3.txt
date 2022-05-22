@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 linea nueva de local
+=======
+nueva linea de remoto
+>>>>>>> b53a1a623652d0ff9608dfa015c1c8df5e8e3512
